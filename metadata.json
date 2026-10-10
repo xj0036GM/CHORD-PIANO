@@ -1,0 +1,6 @@
+{
+  "name": "流行键盘节奏与和弦伴奏工作站",
+  "description": "专业级流行音乐键盘手节奏律动与高频和弦肌肉记忆训练系统，覆盖95%以上流行曲核心套路，支持3八度钢琴键位可视化、双手分拆、30+ BPM智能节拍与一键最佳配对。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
